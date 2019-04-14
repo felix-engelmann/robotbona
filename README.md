@@ -8,6 +8,8 @@ For control, there are already many approaches and integrations in e.g. Homeassi
 
 We were interested in tapping into the path and map the robot creates, which is also shown in the app.
 
+![map](map.png)
+
 ## Setup
 
 
