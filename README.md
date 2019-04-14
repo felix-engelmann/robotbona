@@ -4,7 +4,7 @@ This document describes the journey of operating the vacuum robot Proscenic 790T
 
 The presented insight resulted from many captured traces from the robot and the proscenic robot ab, which presents and controls the robot via a cloud.
 
-For control, there are already many approaches and integrations in e.g. Homeassistant []. This is performed with udp broadcast packets.
+For control, there are already many approaches and integrations in e.g. Homeassistant ( https://github.com/markomannux/pyproscenic , https://github.com/oskarn97/fhem-Proscenic ). This is performed with udp broadcast packets.
 
 We were interested in tapping into the path and map the robot creates, which is also shown in the app.
 
